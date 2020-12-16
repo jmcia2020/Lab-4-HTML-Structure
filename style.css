@@ -1,0 +1,12 @@
+header{
+    background-color:black;
+    text-align: Leftr;
+    color:rgb(255, 0, 191);
+}
+aside {float: left;}
+main {
+    float:right;
+    margin-top: 0;
+    float:right;
+    width:70%;
+}
